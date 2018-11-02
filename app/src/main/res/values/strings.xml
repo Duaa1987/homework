@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TreasureGame</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="create_new_title">Create new</string>
+    <string name="action_share">Share</string>
+
+
+    <string-array name="beautiful">
+        <item>David</item>
+        <item>Phil</item>
+        <item>Greg</item>
+    </string-array>
+
+
+    <string-array name="normal">
+        <item>David</item>
+        <item>Phil</item>
+        <item>Greg</item>
+    </string-array>
+
+
+    <string-array name="treasurehunt">
+        <item>ahmad</item>
+        <item>abed</item>
+    </string-array>
+
+
+
+    <string name="home_tab">home</string>
+    <string name="beautiful_tab">beautiful</string>
+    <string name="normal_tab">Normal</string>
+    <string name="treasurehunt_tab">Treasure Hunt</string>
+<string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
